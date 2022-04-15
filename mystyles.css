@@ -1,0 +1,62 @@
+.bkr{
+    background-image: url(../assets/images/sunset.jpg)
+        
+}
+.title{
+    text-decoration: none;
+    color:black
+}
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.boxcolor{
+   background-color: whitesmoke;
+
+        
+    
+}
+.linkbutton{
+    background-color: black;
+    color:whitesmoke;
+    border-color: black;
+    background-color: black
+    
+        
+}
+.linkbutton:hover  {
+    background-color: black;
+    color:whitesmoke;
+    border-color: black;
+    background-color: black
+    
+}
+.linkbutton:active {
+    border-color: black;
+    background-color: black
+}
+.whitetext{
+    color:whitesmoke
+}
+.ulfont{
+    font-style: italic;
+    font-size:20px
+}
+    
+
+.olfont{
+    font: bold;
+    font-size: 30px
+        
+        
+        
+}

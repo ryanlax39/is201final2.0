@@ -1,0 +1,47 @@
+
+body{background-color: tan;
+    text-align: center;
+    font-family: sans-serif
+
+}
+    
+
+
+.headertitle{
+    font-size: 30px;}
+
+
+.headerlinks{
+    font-size:20px
+    
+}
+common {
+    background-color: lightgoldenrodyellow;
+    border: solid 2px white;
+    position: absolute;
+
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    background-color: gainsboro
+}
+
+.main {
+    top: 114px;
+    height: 2700px;
+    left: 5px;
+    right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+    position: fixed;
+    background-color: gainsboro
+}
